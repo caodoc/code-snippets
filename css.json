@@ -1,0 +1,42 @@
+{
+	// Place your snippets for css here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+	"Default":
+	{
+		"prefix": "new",
+		"body":
+		[
+			"*::-webkit-scrollbar",
+			"{",
+				"background-color: transparent;",
+				"width: 1rem;",
+			"}",
+			"",
+			"*::-webkit-scrollbar-track",
+			"{",
+			"	background-color: transparent;",
+			"}",
+			"",
+			"*::-webkit-scrollbar-thumb",
+			"{",
+			"	border-radius: 20px;",
+			"	border: 4px solid transparent;",
+			"	background-color: var(--base04);",
+			"	background-clip: content-box;",
+			"}"
+		],
+		"description": "Based customizable template for new CSS files."
+	}
+}

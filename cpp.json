@@ -14,7 +14,7 @@
 	// }
 	"Competitive Programming": 
 	{
-		"prefix": "new",
+		"prefix": "cp",
 		"body":
 		[
 			"#include <bits/stdc++.h>",
@@ -33,6 +33,6 @@
 			"",
 			"}"
 		],
-		"description": "Competitive Programming"
+		"description": "Start-up C++ template for Competitive Programming."
 	}
 }

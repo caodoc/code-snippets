@@ -12,7 +12,7 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"Portfolio": 
+	"Default": 
 	{
 		"prefix": "new",
 		"body":
@@ -31,27 +31,27 @@
 			"",
 			"		<meta itemprop=\"name\" content=\"caodoc\">",
 			"		<meta itemprop=\"description\" content=\"&#34;You&amp;#39;re a wanderer, just like me.&#34;\">",
-			"		<meta itemprop=\"image\" content=\"https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png\">",
+			"		<meta itemprop=\"image\" content=\"\">",
 			"",
 			"		<meta name=\"twitter:title\" content=\"caodoc\">"
 			"		<meta name=\"twitter:creator\" content=\"caodoc\">"
 			"		<meta name=\"twitter:description\" content=\"&#34;You&amp;#39;re a wanderer, just like me.&#34;\">"
 			"		<meta name=\"twitter:card\" content=\"summary_large_image\">"
-			"	    <meta name=\"twitter:image\" content=\"https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png\">"
-			"		<meta name=\"twitter:url\" content=\"https://caodoc.is-a.dev\">"
+			"	    <meta name=\"twitter:image\" content=\"\">"
+			"		<meta name=\"twitter:url\" content=\"\">"
 			""
 			"		<meta property=\"og:title\" content=\"caodoc\">"
 			"		<meta property=\"og:type\" content=\"website\">"
 			"		<meta property=\"og:description\" content=\"&#34;You&amp;#39;re a wanderer, just like me.&#34;\">"
-			"		<meta property=\"og:image\" content=\"https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/assets/preview.png\">"
-			"		<meta property=\"og:url\" content=\"https://caodoc.is-a.dev\">"
+			"		<meta property=\"og:image\" content=\"\">"
+			"		<meta property=\"og:url\" content=\"\">"
 			""
 			"		<title> caodoc </title>"
 			""
-			"		<link rel=\"canonical\" href=\"https://caodoc.is-a.dev\">"
-			"		<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-16px.png\">"
-			"		<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-32px.png\">"
-			"		<link rel=\"apple-touch-icon\" sizes=\"192x192\" href=\"https://raw.githubusercontent.com/caodoc/caodoc.github.io/main/logo/favicon-192px.png\">"
+			"		<link rel=\"canonical\" href=\"\">"
+			"		<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"\">"
+			"		<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"\">"
+			"		<link rel=\"apple-touch-icon\" sizes=\"192x192\" href=\"\">"
 			"		<link rel=\"stylesheet\" href=\"\">"
 			"	</head>"
 			""
@@ -62,6 +62,6 @@
 			"	<script src=\"\"> </script>"
 			"</html>"
 		],
-		"description": "Portfolio"
+		"description": "Based customizable template for new HTML files."
 	}
 }
